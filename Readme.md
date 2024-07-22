@@ -52,6 +52,3 @@ Here are some of my notable projects:
 ![Shopify](https://img.shields.io/badge/-Shopify-96BF48?logo=shopify&logoColor=white&style=flat)
 ![Wix](https://img.shields.io/badge/-Wix-0C6EFC?logo=wix&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-
-## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
