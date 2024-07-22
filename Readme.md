@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h1 align="center">Hi 👋, I'm M:Ahmed</h1>
+<h3 align="center">A Passionate Frontend Developer.</h3>
+
+- 🌱 I am currently working as a CMS developer. I am proficient in WordPress, Shopify, Wix, and React.
 
 - 🔭 I’m currently working on [React.js](https://the-tanna-s-way.vercel.app/)
 
-- 🌱 I’m currently learning **React.js**
+- 👨‍💻 See my portfolio at  [https://theahmedportfolio.vercel.app/](https://theahmedportfolio.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://theahmedportfolio.vercel.app/](https://theahmedportfolio.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
