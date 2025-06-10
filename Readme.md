@@ -31,7 +31,7 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="40" height="40"/> 
   </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> 
   </a>
   <a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> 
@@ -39,7 +39,7 @@
   </a>
   <a href="https://www.wix.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="wix" width="40" height="40"/> 
-  </a>
+  </a> -->
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed12590&show_icons=true&locale=en&layout=compact" alt="ahmed12590" /></p>
