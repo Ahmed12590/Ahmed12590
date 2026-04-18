@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
@@ -33,4 +33,4 @@
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="40" height="40"/>
   </a>
-</p>
+</p> -->
