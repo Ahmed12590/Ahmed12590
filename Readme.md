@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm M:Ahmed</h1>
 <h3 align="center">A Passionate Frontend Developer.</h3>
 
-- 🌱 I am proficient in WordPress, Shopify, Wix and React.
-- 🔭 I’m currently working on [React.js](https://the-tanna-s-way.vercel.app/)
+- 🌱 I am proficient in React, Node, WordPress and Shopify.
+- 🔭 I’m currently working on React.js, Next.js, Node.js.
 - 👨‍💻 See my portfolio at [https://theahmedportfolio.vercel.app/](https://theahmedportfolio.vercel.app/)
 
 ---
